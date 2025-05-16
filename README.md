@@ -3,6 +3,8 @@
 
 Este proyecto es una aplicación interactiva desarrollada en Python utilizando la biblioteca Pygame. Permite visualizar y experimentar con curvas de Lissajous en tiempo real, ajustando sus parámetros principales desde una interfaz gráfica intuitiva.
 
+<span><img src="https://github.com/VintaBytes/Lissajous/blob/main/imagen1.png?raw=true"  width="480px"/></span>
+
 ## 🎯 Funcionalidades principales
 
 - Representación dinámica de curvas de Lissajous.
