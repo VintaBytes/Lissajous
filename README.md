@@ -1,4 +1,5 @@
 # Generador Interactivo de Curvas de Lissajous
+<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
 
 Este proyecto es una aplicación interactiva desarrollada en Python utilizando la biblioteca Pygame. Permite visualizar y experimentar con curvas de Lissajous en tiempo real, ajustando sus parámetros principales desde una interfaz gráfica intuitiva.
 
