@@ -3,6 +3,10 @@
 
 Este proyecto es una aplicación interactiva desarrollada en Python utilizando la biblioteca Pygame. Permite visualizar y experimentar con curvas de Lissajous en tiempo real, ajustando sus parámetros principales desde una interfaz gráfica intuitiva.
 
+
+
+## 📸 Captura de pantalla
+
 <span><img src="https://github.com/VintaBytes/Lissajous/blob/main/imagen1.png?raw=true"  width="480px"/></span>
 
 ## 🎯 Funcionalidades principales
@@ -29,12 +33,11 @@ Este proyecto es una aplicación interactiva desarrollada en Python utilizando l
 | Detener animación      | Botón `Stop`     |
 | Salir del programa     | `ESC`            |
 
----
 
 
-$$
-x(t) = A \cdot \sin(a t + \delta), \quad y(t) = B \cdot \sin(b t)
-$$
+$$ x(t) = A \cdot \sin(a t + \delta) $$
+$$ y(t) = B \cdot \sin(b t) $$
+
 
 
 Donde:
@@ -50,12 +53,6 @@ Estas curvas se utilizan en física, electrónica (osciloscopios) y arte generat
 
 - Python 3.8 o superior
 - Biblioteca `pygame` instalada (`pip install pygame`)
-
----
-
-## 📸 Captura de pantalla
-
-*(Podés agregar una imagen aquí)*
 
 ---
 
