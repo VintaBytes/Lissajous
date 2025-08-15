@@ -10,7 +10,7 @@ Permite visualizar y experimentar con curvas de Lissajous en tiempo real, ajusta
 
 <span><img src="https://github.com/VintaBytes/Lissajous/blob/main/imagen1.png?raw=true"  width="480px"/></span>
 
-## 🎯 Funcionalidades principales
+## Funcionalidades principales
 
 - Representación dinámica de curvas de Lissajous.
 - Control en tiempo real de los parámetros `a`, `b` y `delta`:
@@ -20,7 +20,7 @@ Permite visualizar y experimentar con curvas de Lissajous en tiempo real, ajusta
 - Animación suave del desfase `delta`, controlada por botones `Start` y `Stop`.
 - Tooltips que explican cada botón al pasar el mouse por encima.
 
-## 🖱️ Controles
+## Controles
 
 | Acción                 | Tecla / Botón     |
 |------------------------|------------------|
@@ -50,13 +50,13 @@ Estas curvas se utilizan en física, electrónica (osciloscopios) y arte generat
 
 ---
 
-## 🧩 Requisitos
+## Requisitos
 
 - Python 3.8 o superior
 - Biblioteca `pygame` instalada (`pip install pygame`)
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
